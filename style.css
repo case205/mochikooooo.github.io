@@ -1,0 +1,72 @@
+/* style.css */
+body {
+  font-family: Impact, Arial, sans-serif;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  background-image: url(motimoti.png);
+}
+
+.logo img {
+  width: 200px;
+  height: 200px;
+  border: 3px solid #ff0000;
+  border-radius: 50%;
+}
+
+header {
+  background-color: #ff0000;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  margin-left: auto;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+section {
+  padding: 50px;
+}
+
+footer {
+  background-color: #ff0000;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+h2 {
+  color: #ff0000;
+  font-size: 30px;
+}
+
+p {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+/* その他のスタイルは省略 */
+.about {
+  margin-top: 90px;
+  margin-bottom: 100px;
+}
+.nya {
+  margin-right: 20px;
+}
