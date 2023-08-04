@@ -13,7 +13,10 @@ body {
   border: 3px solid #ff0000;
   border-radius: 50%;
 }
-
+.logo button {
+  height: 80px;
+  width: 300px;
+}
 header {
   background-color: #ff0000;
   padding: 20px;
